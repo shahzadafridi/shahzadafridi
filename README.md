@@ -17,9 +17,7 @@ You can use the website to generate badges: https://shields.io/
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>A highly resourceful android developer. Proficient in Java,
-Kotlin and version control framework. Highly motivated, quick learner,
-hard working and experienced in working in a fast paced environment
+  <samp>A highly resourceful android developer. Proficient in Java, Kotlin and version control framework. Highly motivated, quick learner, hard working and experienced in working in a fast paced environment
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=shahzadafridi" alt="https://github.com/shahzadafridi" />
@@ -36,7 +34,8 @@ hard working and experienced in working in a fast paced environment
 - 💬 &nbsp; Ask me about anything [here](https://github.com/shahzadafridi/shahzadafridi/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Android is easy.
 - 📫 &nbsp; How to reach me: shahzadahmadafridi@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf). -->
+- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="shahzadafridi" height="20" width="20" /> Checkout my [Profile](https://stackoverflow.com/users/6672577/shahzad-afridi).
   
 <hr>
 
