@@ -13,8 +13,6 @@ You can use the website to generate badges: https://shields.io/
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://encryptsoul.com/)
 &nbsp;
 
-<p align="center"> (Open for freelancing projects)</p>
-
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
   <samp>A highly resourceful android developer. Proficient in Java, Kotlin and version control framework. Highly motivated, quick learner, hard working and experienced in working in a fast paced environment
