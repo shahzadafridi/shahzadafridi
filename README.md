@@ -8,9 +8,9 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shahzadafridi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imshahzadafridi/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/shahzadafridia1)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/imopriday)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/realtimecoding)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shahzadahmadafridi@gmail.com)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://encryptsoul.com/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://realtimecoding.com/)
 &nbsp;
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
@@ -32,6 +32,7 @@ You can use the website to generate badges: https://shields.io/
 - 💬 &nbsp; Ask me about anything [here](https://github.com/shahzadafridi/shahzadafridi/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Enjoying life with coding for people.
 - 📫 &nbsp; How to reach me: shahzadahmadafridi@gmail.com
+- 🎥 &nbsp; Wants to learn android development? [Checkout My Youtube Channel ](https://www.youtube.com/channel/UCEw8TWSpI1sgcpv1_dmi8qg)
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf). -->
 - <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="shahzadafridi" height="20" width="20" /> Checkout my [Profile](https://stackoverflow.com/users/6672577/shahzad-afridi).
   
@@ -60,7 +61,6 @@ You can use the website to generate badges: https://shields.io/
 <hr>
 
 ### Open Source:
-
 
 ![](https://github-readme-stats.vercel.app/api?username=shahzadafridi&show_icons=true)
 
