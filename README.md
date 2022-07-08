@@ -23,7 +23,7 @@ You can use the website to generate badges: https://shields.io/
 
 <hr>
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" height="260" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="390" height="240" />
 
 ### Talking about Personal Stuffs:
 - 🛠 &nbsp; I’m currently working with Android, Kotlin, Java, Laravel lumen Graphql, MySQL, ROOM/SQLite, AWS and firebase.
