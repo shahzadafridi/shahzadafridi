@@ -25,9 +25,9 @@ You can use the website to generate badges: https://shields.io/
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="390" height="240" />
 
-### Talking about Personal Stuffs:
-- 🛠 &nbsp; I’m currently working with Android, Kotlin, Java, Laravel lumen Graphql, MySQL, ROOM/SQLite, AWS and firebase.
-- 🚀 &nbsp; I’m always learning to keep myself updated with latest stuff.
+### Talking about Personal Stuff:
+- 🛠 &nbsp; I’m currently working with Android, Kotlin, Java, Laravel lumen Graphql, MySQL, ROOM/SQLite, AWS, and firebase.
+- 🚀 &nbsp; I’m always learning to keep myself updated with the latest stuff.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shahzadafridi).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/shahzadafridi/shahzadafridi/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Enjoying life with coding for people.
@@ -40,6 +40,12 @@ You can use the website to generate badges: https://shields.io/
  
 ## 📜 Work Experience
 
+**Freelance Software Engineer (Android)** 
+[**Tentwenty**](https://www.tentwenty.me/) • Full-time  🗓 May 2022 – Present 🏣 Remote
+- Working as full-time freelancer on custom client-level requirements and also available remote job, contract and freelance project
+
+------------
+
 **Senior Software Engineer (Android)** 
 [**Tentwenty**](https://www.tentwenty.me/) • Full-time  🗓 Jul 2021 – May 2022 🏣 Islamabad, Pakistan 🕓  11 mos
 - Working on high-level Android applications for the world best company Aramco and other organization.
@@ -51,20 +57,20 @@ You can use the website to generate badges: https://shields.io/
 
 **Software Engineer (Android)** 
 [**Empire Holding B.V**](https://www.tungsten.pk) • Full-time  🗓 Nov 2020 – Jul 2021 🏣 Peshawar, Pakistan 🕓  09 mos
-- Responsible to manage and maintian the running products of empire.
+- Responsible to manage and maintain the running products of empire.
 
 ------------
 
 **Software Engineer (Android)** 
 [**Trustecsol Pvt. Ltd.**](http://www.trustechsol.com) • Full-time  🗓 Nov 2018 – Oct 2020 🏣 Peshawar, Pakistan 🕓   2 yrs
-- In charged of developing, testing and maintaining android ap- plications.
-- Hands on experience On REST API, VCS,Camera API, Google Maps, Firebase, Networking Libraries, Background thread and service for developing high profile application . Also work- ing closely with Databases to store data in Cloud Database, SQLite and MYSQL.
+- In charged of developing, testing and maintaining android applications.
+- Hands on experience On REST API, VCS, Camera API, Google Maps, Firebase, Networking Libraries, Background thread and service for developing high profile application . Also work- ing closely with Databases to store data in Cloud Database, SQLite and MYSQL.
 
 ------------
 
 **Software Engineer (Android)** 
 [**IM|Durshal**](https://www.durshal.com/contact) • Full-time  🗓 Apr 2018 – Oct 2018 🏣 Peshawar, Pakistan 🕓  07 mos
-- Responsible for designing and developing of the android appli- cation.
+- Responsible for designing and developing the android application.
 - Using Java, REST API, MYSQL, Firebase Database, Google Maps, Background Locations, Notifications.
 
 ------------
@@ -84,18 +90,18 @@ You can use the website to generate badges: https://shields.io/
 |  UI | Material Design, Jetpack Compose UI |
 | Android Core  | Broadcast Receivers, Services, Flavours |
 | Music  | Media Player, Exo Player|
-|  Databases | Firebase, MySQL, Room , AWS  |
+|  Databases | Firebase, MySQL, Room, AWS  |
 |  Architecture & Desing Pattern  | MVVM, MVP, MVC, Modularizaition, Clean Archtecture  |
-| Jetpack Libraries   | Paging, Coroutines, LiveData , Flow, Work Manger, Data Store, Dagger Hilt, Jetpack Navigation, Jetpack Compose (Beginner Level) |
+| Jetpack Libraries   | Paging, Coroutines, LiveData, Flow, Work Manager, Data Store, Dagger Hilt, Jetpack Navigation, Jetpack Compose (Beginner Level) |
 | Payment Gateway’s  | JazzCash, EasyPaisa, Pay- fort, Google Billing SDK, In App purchase  |
 | Backend Integration  |  GraphQL, Appolo Client, Rest API |
-| Firebase  |  App Distribution, Crashlytics, Ana- lytics, Storage, Firestore, Realtime Database, Authentication, FCM, Remote Config, Dynamic Links  |
+| Firebase  |  App Distribution, Crashlytics, Analytics, Storage, Firestore, Realtime Database, Authentication, FCM, Remote Config, Dynamic Links  |
 | SDUI (Server Driven UI)  |  Epoxy, Pattern designing, Mapping, Error Handling, Forum Builder, Custom Component designing  |
-|  Google Maps & Location services | Realtime Tracking apps and Map related functionality, Geo fencing, Uber clone etc  |
+|  Google Maps & Location services | Realtime Tracking apps and Map related functionality, Geo-fencing, Uber clone, etc  |
 | CICD | Github Action (With Firebase Distribution  PlayStore), Bitrise, Fastlane(with Firebase Distribution) |
 | VCS | Git, Github, Gitlab, Bitbucket |
 | Other |Custom Library , SDK designing ||
-etc....
+etc...
   
 
 ## 🧑‍💻 Languages & Tools
