@@ -231,19 +231,19 @@ etc...
         <td>Kotlin, Material Designs, Firebase (Push Notifications), Jetpack Libraries (LiveData, Navigation, Room), MVVM, Appollo Client, GraphQL, Progurard rule, XD Design to XML etc...</td>
       </tr>
 	    	   <tr>
-	     <td><a href="[https://play.google.com/store/apps/details?id=com.official.datisflex&hl=en&gl=US](https://play.google.com/store/apps/details?id=com.mindsupply&hl=en)"><b>MindSupply</b></a></td>
+	     <td><a href="https://play.google.com/store/apps/details?id=com.mindsupply&hl=en"><b>MindSupply</b></a></td>
         <td>MindSupply is a mindfulness mobile app that brings together music, meditation, artworks, and poetry. Your virtual wellness retreat — anytime, any day, anywhere.</td>
         <td>Kotlin, Material Designs, Firebase (Push Notifications), Jetpack Libraries (LiveData, Navigation), MVVM, Retrofit, REST API, XD Design to XML, Exo Player, Back- ground Service, Music Player, Advance UI, Progurard rule On</td>
       </tr>
 	   	   <tr>
-	     <td><a href="[https://play.google.com/store/apps/details?id=com.aramco.ithraapp&hl=en&gl=US](https://play.google.com/store/apps/details?id=com.Annonzilla.com)"><b>AnnonZilla</b></a></td>
+	     <td><a href="https://play.google.com/store/apps/details?id=com.Annonzilla.com"><b>AnnonZilla</b></a></td>
         <td>AnnonZilla, is a free and unlimited advertising platform in Mo- rocco, which allows users to sell and buy items in a secure environment within their communities.</td>
         <td>Java, Firebase (Push Notifications, Re-
 mote Config, Firebase Database), MVC, Retrofit, REST API, XD Design to XML, MQQT service, Localization, Google Billing Li- brary (In App purchase), Couchbase (Database), Facebook/Google Login, AdMob, Facebook Advertising SDK, Camera API, Share Preferences, Google Maps, Placing API, Progurard rule, Chat,
 </td>
       </tr>
 	  	   	   <tr>
-	     <td><a href="[https://play.google.com/store/apps/details?id=com.official.datisflex&hl=en&gl=US](https://play.google.com/store/apps/details?id=com.brikmas.balochtransport&hl=en)"><b>Baloch Transport</b></a></td>
+	     <td><a href="https://play.google.com/store/apps/details?id=com.brikmas.balochtransport&hl=en"><b>Baloch Transport</b></a></td>
         <td>Online bus booking service. Curretly It has corssed 90k+ download with 30k+ live users</td>
         <td>Kotlin, Material Designs, Firebase (Dy- namic Links, Push Notifications), Jetpack Libraries (LiveData, Navigation, Roome), MVVM, REST API,Retrofit, Intercep- tors, XD Design to XML, Jazz Cash, Easy Paisa, Baloch Wallet, Transactions, Progurard rule, CICD, Github Action.</td>
       </tr>
