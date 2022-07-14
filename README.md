@@ -41,7 +41,7 @@ You can use the website to generate badges: https://shields.io/
 ## 📜 Work Experience
 
 **Freelance Software Engineer (Android)** 
-[**Tentwenty**](https://www.tentwenty.me/) • Full-time  🗓 May 2022 – Present 🏣 Remote
+[**Upwork & Fiverr**](https://www.upwork.com/) • Full-time  🗓 May 2022 – Present 🏣 Remote
 - Working as full-time freelancer on custom client-level requirements and also available remote job, contract and freelance project
 
 ------------
