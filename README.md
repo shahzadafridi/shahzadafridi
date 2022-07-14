@@ -50,27 +50,27 @@ You can use the website to generate badges: https://shields.io/
 ------------
 
 **Software Engineer (Android)** 
-[**Empire Holding B.V**](https://www.tentwenty.me/) • Full-time  🗓 Nov 2020 – Jul 2021 🏣 Peshawar, Pakistan 🕓  09 mos
+[**Empire Holding B.V**](https://www.tungsten.pk) • Full-time  🗓 Nov 2020 – Jul 2021 🏣 Peshawar, Pakistan 🕓  09 mos
 - Responsible to manage and maintian the running products of empire.
 
 ------------
 
 **Software Engineer (Android)** 
-[**Trustecsol Pvt. Ltd.**](https://www.tentwenty.me/) • Full-time  🗓 Nov 2018 – Oct 2020 🏣 Peshawar, Pakistan 🕓   2 yrs
+[**Trustecsol Pvt. Ltd.**](http://www.trustechsol.com) • Full-time  🗓 Nov 2018 – Oct 2020 🏣 Peshawar, Pakistan 🕓   2 yrs
 - In charged of developing, testing and maintaining android ap- plications.
 - Hands on experience On REST API, VCS,Camera API, Google Maps, Firebase, Networking Libraries, Background thread and service for developing high profile application . Also work- ing closely with Databases to store data in Cloud Database, SQLite and MYSQL.
 
 ------------
 
 **Software Engineer (Android)** 
-[**IM|Durshal**](https://www.tentwenty.me/) • Full-time  🗓 Apr 2018 – Oct 2018 🏣 Peshawar, Pakistan 🕓  07 mos
+[**IM|Durshal**](https://www.durshal.com/contact) • Full-time  🗓 Apr 2018 – Oct 2018 🏣 Peshawar, Pakistan 🕓  07 mos
 - Responsible for designing and developing of the android appli- cation.
 - Using Java, REST API, MYSQL, Firebase Database, Google Maps, Background Locations, Notifications.
 
 ------------
 
 **Software Engineer (Android)** 
-[**Upwork | Fiverr**](https://www.tentwenty.me/) • Full-time  🗓 Jul 2016 - Dec 2017 🏣 Remote 🕓 1 yr 6 mos
+[**Upwork | Fiverr**](https://www.fiverr.me/shahzadafridi) • Full-time  🗓 Jul 2016 - Dec 2017 🏣 Remote 🕓 1 yr 6 mos
 - Was Top Rated on Upwork with having the majority of 5 Stars reviews and Provided quality work to all my clients.
 - Was level 2 Seller on Fiverr with having the majority of 5 Stars reviews and Provided quality work to all my clients.
 - Most of the projects didn't mention in my CV due to the agreement not making them public. During my freelancing career, I have worked most the with Google maps, location, Firebase, Bug fixes, Improvements, Play console issues,s and Working on Custom requirements based solution android app for the client.
