@@ -265,39 +265,39 @@ mote Config, Firebase Database), MVC, Retrofit, REST API, XD Design to XML, MQQT
 ## 📖 Open Source Projects
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/shahzadafridi/Save-Life-Blood-Donor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahzadafridi&repo=Save-Life-Blood-Donor&theme=buefy"   />
 </a> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/shahzadafridi/SensorDetectorDemoApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahzadafridi&repo=SensorDetectorDemoApp&theme=buefy"   />
 </a> 
 	
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/shahzadafridi/LinkedInManager">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahzadafridi&repo=LinkedInManager&theme=buefy"   />
 </a> 
 	
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/shahzadafridi/MovieAppWithMVVM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahzadafridi&repo=MovieAppWithMVVM&theme=buefy" />
 </a> 
 	
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/shahzadafridi/FirebaseWithMVVM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahzadafridi&repo=FirebaseWithMVVM&theme=buefy"   />
 </a> 
 	
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/shahzadafridi/FCM-Notification-Test-Cases">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahzadafridi&repo=FCM-Notification-Test-Cases&theme=buefy"  />
 </a> 
 	
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/shahzadafridi/CalenderView">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahzadafridi&repo=CalenderView&theme=buefy" />
 </a> 
 	
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/shahzadafridi/DistanceTrackingApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahzadafridi&repo=DistanceTrackingApp&theme=buefy"  />
 </a> 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/shahzadafridi/Posty">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shahzadafridi&repo=Posty&theme=buefy" />
 </a> 
 
