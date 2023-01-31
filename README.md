@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="390" height="240" />
 
-### Talking about Personal Stuff:
+### 🧓Talking about Personal Stuff:
 - 🛠 &nbsp; I’m currently working with Android, Kotlin, Java, Laravel lumen Graphql, MySQL, ROOM/SQLite, AWS, and firebase.
 - 🚀 &nbsp; I’m always learning to keep myself updated with the latest stuff.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shahzadafridi).
@@ -35,13 +35,8 @@ You can use the website to generate badges: https://shields.io/
 - 🎥 &nbsp; Wants to learn android development? Checkout [My Youtube Channel](https://www.youtube.com/channel/UCEw8TWSpI1sgcpv1_dmi8qg)
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf). -->
 - <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="shahzadafridi" height="20" width="20" /> Checkout my [My StackOverFlow Profile](https://stackoverflow.com/users/6672577/shahzad-afridi).
-  
-<hr>
  
- 
-
-
-## 💪 Skills set
+<!-- ## 💪 Skills set
 
 
  |  Category | Skills |
@@ -60,10 +55,10 @@ You can use the website to generate badges: https://shields.io/
 | CICD | Github Action (With Firebase Distribution  PlayStore), Bitrise, Fastlane(with Firebase Distribution) |
 | VCS | Git, Github, Gitlab, Bitbucket |
 | Other |Custom Library , SDK designing ||
-etc...
+etc... -->
   
 
-## 🧑‍💻 Languages & Tools
+### 🧑‍💻 Languages & Tools:
 
 <table>
   <tr>
@@ -158,7 +153,7 @@ etc...
   </tr>
 </table>
    
-## 📰 Latest Tweets
+### 📰 Latest Tweets:
 
  | Shahzad Afridi (@codewithafridi) |  Realtime Coding (@rtcoding)  |
 | :------------ | :------------ |
