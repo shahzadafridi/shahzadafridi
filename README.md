@@ -152,11 +152,4 @@ etc... -->
     </td>
   </tr>
 </table>
-   
-### 📰 Latest Tweets:
-
- | Shahzad Afridi (@codewithafridi) |  Realtime Coding (@rtcoding)  |
-| :------------ | :------------ |
-| [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=codewithafridi&layout=wide)](https://github.com/codewithafridi/github-readme-twitter)  |  [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=rtcoding&layout=wide)](https://github.com/rtcoding/github-readme-twitter) |
-
-					  
+   	  
