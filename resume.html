@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -292,6 +293,16 @@
 
         .project-description li {
             margin-bottom: 6px;
+            padding-left: 20px;
+            position: relative;
+        }
+
+        .project-description li::before {
+            content: '✓';
+            position: absolute;
+            left: 0;
+            color: #27ae60;
+            font-weight: bold;
         }
 
         .education {
@@ -434,6 +445,7 @@
                                 <span class="skill-tag">Fragments</span>
                                 <span class="skill-tag">Activities</span>
                                 <span class="skill-tag">Intent Filters</span>
+                                <span class="skill-tag">Content Provider</span>
                             </div>
                         </div>
 
@@ -453,6 +465,7 @@
                                 <span class="skill-tag">MVP</span>
                                 <span class="skill-tag">MVC</span>
                                 <span class="skill-tag">Clean Architecture</span>
+                                <span class="skill-tag">Modularization</span>
                             </div>
                         </div>
 
@@ -465,7 +478,9 @@
                                 <span class="skill-tag">LiveData</span>
                                 <span class="skill-tag">Flow</span>
                                 <span class="skill-tag">Work Manager</span>
-                                <span class="skill-tag">Dagger/Hilt</span>
+                                <span class="skill-tag">Data Store</span>
+                                <span class="skill-tag">Dagger2/Hilt</span>
+                                <span class="skill-tag">Lifecycle</span>
                                 <span class="skill-tag">Jetpack Compose</span>
                             </div>
                         </div>
@@ -476,7 +491,8 @@
                                 <span class="skill-tag">JazzCash</span>
                                 <span class="skill-tag">EasyPaisa</span>
                                 <span class="skill-tag">Payfort</span>
-                                <span class="skill-tag">Google Billing</span>
+                                <span class="skill-tag">Google Billing SDK</span>
+                                <span class="skill-tag">In App Purchase</span>
                             </div>
                         </div>
 
@@ -490,10 +506,48 @@
                         </div>
 
                         <div class="skill-category">
+                            <h4>Firebase</h4>
+                            <div class="skill-tags">
+                                <span class="skill-tag">App Distribution</span>
+                                <span class="skill-tag">Crashlytics</span>
+                                <span class="skill-tag">Analytics</span>
+                                <span class="skill-tag">Storage</span>
+                                <span class="skill-tag">Firestore</span>
+                                <span class="skill-tag">Realtime Database</span>
+                                <span class="skill-tag">Authentication</span>
+                                <span class="skill-tag">FCM</span>
+                                <span class="skill-tag">Remote Config</span>
+                                <span class="skill-tag">Dynamic Links</span>
+                            </div>
+                        </div>
+
+                        <div class="skill-category">
+                            <h4>SDUI (Server Driven UI)</h4>
+                            <div class="skill-tags">
+                                <span class="skill-tag">Epoxy</span>
+                                <span class="skill-tag">Pattern Designing</span>
+                                <span class="skill-tag">Mapping</span>
+                                <span class="skill-tag">Error Handling</span>
+                                <span class="skill-tag">Forum Builder</span>
+                                <span class="skill-tag">Custom Components</span>
+                            </div>
+                        </div>
+
+                        <div class="skill-category">
+                            <h4>Maps</h4>
+                            <div class="skill-tags">
+                                <span class="skill-tag">Google Maps API</span>
+                                <span class="skill-tag">Location Services</span>
+                                <span class="skill-tag">Realtime Tracking</span>
+                            </div>
+                        </div>
+
+                        <div class="skill-category">
                             <h4>Testing</h4>
                             <div class="skill-tags">
                                 <span class="skill-tag">JUnit</span>
                                 <span class="skill-tag">Espresso</span>
+                                <span class="skill-tag">UI Tests</span>
                                 <span class="skill-tag">Mockito</span>
                                 <span class="skill-tag">TDD</span>
                             </div>
@@ -505,6 +559,20 @@
                                 <span class="skill-tag">GitHub Actions</span>
                                 <span class="skill-tag">Bitrise</span>
                                 <span class="skill-tag">Fastlane</span>
+                                <span class="skill-tag">Firebase Distribution</span>
+                            </div>
+                        </div>
+
+                        <div class="skill-category">
+                            <h4>Developer Tools</h4>
+                            <div class="skill-tags">
+                                <span class="skill-tag">Git</span>
+                                <span class="skill-tag">Docker</span>
+                                <span class="skill-tag">Google Cloud Platform</span>
+                                <span class="skill-tag">Maven/Gradle</span>
+                                <span class="skill-tag">GitHub</span>
+                                <span class="skill-tag">GitLab</span>
+                                <span class="skill-tag">Bitbucket</span>
                             </div>
                         </div>
 
@@ -514,8 +582,30 @@
                                 <span class="skill-tag">Crypto</span>
                                 <span class="skill-tag">Substrate</span>
                                 <span class="skill-tag">Polkadot</span>
+                                <span class="skill-tag">Cryptographic</span>
+                                <span class="skill-tag">Encryption/Decryption</span>
                                 <span class="skill-tag">Sr25519</span>
+                                <span class="skill-tag">BIP39</span>
                                 <span class="skill-tag">DApps</span>
+                                <span class="skill-tag">Keystore</span>
+                                <span class="skill-tag">RPC</span>
+                            </div>
+                        </div>
+
+                        <div class="skill-category">
+                            <h4>MultiPlatform</h4>
+                            <div class="skill-tags">
+                                <span class="skill-tag">Kotlin Multiplatform</span>
+                                <span class="skill-tag">Compose Multiplatform</span>
+                            </div>
+                        </div>
+
+                        <div class="skill-category">
+                            <h4>Libraries</h4>
+                            <div class="skill-tags">
+                                <span class="skill-tag">Custom Library</span>
+                                <span class="skill-tag">SDK Designing</span>
+                                <span class="skill-tag">ExoPlayer</span>
                             </div>
                         </div>
                     </div>
@@ -569,52 +659,12 @@
                         <div class="job-location">Remote - Mountain View, California, United States</div>
                         <ul class="job-responsibilities">
                             <li>Involved in Analysis, Design, Development, Deployment and Testing of applications</li>
-                            <li>Working on Super App for Workspace used by Tech giants e.g Adobe, VISA, HP, Doordash, BNYM and other 25 clients</li>
-                            <li>Responsible to refactor legacy Java codebase into Kotlin with Jetpack Compose UI</li>
-                            <li>Responsible to inject new features with existing features flow</li>
-                            <li>Responsible for UI/UX and API implementation, Caching, Encoding/Decoding</li>
+                            <li>Working on high-level Android applications for world's best companies like Aramco and other organizations</li>
+                            <li>Led Android Team by solving and guiding in problems or challenges which come in their way</li>
+                            <li>Checking code quality and pattern then merging their code into the codebase</li>
+                            <li>Led communication with backend and mobile team to overcome challenges and complete tasks under given deadlines</li>
                             <li>Responsible for owning the entire SDLC including requirements gathering, implementation, testing, and deploying to the play store</li>
-                            <li>Checking Code structure, quality, tests, and merging into the codebase</li>
-                            <li>Using Jira to track Sprints, tickets and deadlines</li>
-                        </ul>
-                    </div>
-
-                    <div class="job">
-                        <div class="job-header">
-                            <div>
-                                <div class="job-title">Lead Android Developer</div>
-                                <div class="company">Apex Consultant</div>
-                            </div>
-                            <div class="job-period">Jul 2022 – Oct 2023</div>
-                        </div>
-                        <div class="job-location">Remote - Fairfax, Virginia, United States</div>
-                        <ul class="job-responsibilities">
-                            <li>Worked as Lead Android Developer on blockchain-based crypto wallet connecting with Polkadot parachain</li>
-                            <li>Researching on best approach/open source projects to develop high-end secure wallet</li>
-                            <li>Managing projects using agile processes and using Jira to visualize work and distribute among team members</li>
-                            <li>Led communication with different teams effectively to get things done on time</li>
-                            <li>Responsible for UI/UX and API implementation, Caching, Encoding/Decoding</li>
-                            <li>Modifying code structure and following best practices to maintain multi-module architecture</li>
-                            <li>Helping HR and Recruiters by screening CVs, reviewing technical assignments, conducting interviews</li>
-                        </ul>
-                    </div>
-
-                    <div class="job">
-                        <div class="job-header">
-                            <div>
-                                <div class="job-title">Senior Android Developer</div>
-                                <div class="company">Tentwenty</div>
-                            </div>
-                            <div class="job-period">Jul 2021 – May 2022</div>
-                        </div>
-                        <div class="job-location">Remote - Islamabad, Pakistan</div>
-                        <ul class="job-responsibilities">
-                            <li>Working on high-level Android applications for world's best companies like Aramco</li>
-                            <li>Led Android Team by solving and guiding in problems or challenges</li>
-                            <li>Checking code quality and pattern then merging code into the codebase</li>
-                            <li>Led communication with backend and mobile team to overcome challenges</li>
-                            <li>Responsible for owning the entire SDLC including requirements gathering, implementation, testing</li>
-                            <li>Helping HR and Recruiters by screening CVs and conducting technical interviews</li>
+                            <li>Helping HR and Recruiters by screening CVs, reviewing technical assignments, conducting technical and behavioral interviews</li>
                         </ul>
                     </div>
 
@@ -628,9 +678,9 @@
                         </div>
                         <div class="job-location">Peshawar, Pakistan</div>
                         <ul class="job-responsibilities">
-                            <li>Building advanced level Android applications targeting high scale of users</li>
-                            <li>Led Android Team by solving and guiding in problems or challenges</li>
-                            <li>Checking code quality and pattern then merging code into codebase</li>
+                            <li>Building advanced level Android applications which target high scale of users, architecture oriented and good user experience</li>
+                            <li>Led Android Team by solving and guiding in problems or challenges which come in their way</li>
+                            <li>Checking code quality and pattern then merging their code into codebase</li>
                         </ul>
                     </div>
 
@@ -644,10 +694,26 @@
                         </div>
                         <div class="job-location">Peshawar, Pakistan</div>
                         <ul class="job-responsibilities">
-                            <li>Developing Android applications and performing coaching classes for new developers</li>
-                            <li>Responsible for code quality and maintenance on different projects</li>
-                            <li>Hands-on experience with REST API, VCS, Camera API, Google Maps, Firebase</li>
+                            <li>Developing Android applications and performing coaching classes for newly Android developers to give insight of Android ecosystem and framework behavior on Android devices</li>
+                            <li>Responsible to check code quality and maintenance on different projects</li>
+                            <li>Hands-on experience with REST API, VCS, Camera API, Google Maps, Firebase, Networking Libraries, Background thread and service for developing high profile applications</li>
                             <li>Working closely with databases to store data in Cloud Database, SQLite and MySQL</li>
+                        </ul>
+                    </div>
+
+                    <div class="job">
+                        <div class="job-header">
+                            <div>
+                                <div class="job-title">Android Developer</div>
+                                <div class="company">IM Durshal</div>
+                            </div>
+                            <div class="job-period">Apr 2018 – Oct 2018</div>
+                        </div>
+                        <div class="job-location">Peshawar, Pakistan</div>
+                        <ul class="job-responsibilities">
+                            <li>Responsible to design and develop a prototype of startup</li>
+                            <li>Responsible to gather requirements, validation and integration</li>
+                            <li>Responsible to test and fixes of the issues</li>
                         </ul>
                     </div>
 
@@ -661,9 +727,10 @@
                         </div>
                         <div class="job-location">Remote - Peshawar, Pakistan</div>
                         <ul class="job-responsibilities">
-                            <li>Top Rated on Upwork with majority of 5-star reviews</li>
-                            <li>Level 2 Seller on Fiverr with majority of 5-star reviews</li>
-                            <li>Worked extensively with Google Maps, location services, Firebase, and custom solutions</li>
+                            <li>Was Top Rated on Upwork with having the majority of 5 stars reviews and provided quality work to all my clients</li>
+                            <li>Was level 2 Seller on Fiverr with having the majority of 5 stars reviews and provided quality work to all my clients</li>
+                            <li>Most of the projects didn't mention in my CV due to the agreement not making them public</li>
+                            <li>During freelancing career, worked most of the time with Google Maps, location, Firebase, Bug fixes, Improvements, Play console issues, and working on custom requirements based solution Android app for clients</li>
                         </ul>
                     </div>
                 </section>
@@ -675,19 +742,120 @@
                         <div class="project-title">Vital Pakistan</div>
                         <div class="project-description">
                             <ul>
-                                <li>Maintained and enhanced large-scale legacy Android codebase with 500K+ active users</li>
-                                <li>Implemented modern tech stack (Kotlin, Jetpack Compose, Kotlin DSL)</li>
-                                <li>Achieved 90% on-time sprint delivery through cross-functional collaboration</li>
-                                <li>Reduced app startup time by 25% and achieved 98% crash-free sessions</li>
-                                <li>Implemented CI/CD pipelines reducing manual release efforts by 40%</li>
+                                <li>Maintained and enhanced a large-scale legacy Android codebase while implementing new features with modern tech stack (Kotlin, Jetpack Compose, Kotlin DSL), ensuring smooth migration without disrupting 500K+ active users</li>
+                                <li>Collaborated with cross-functional teams (backend, QA, product) to deliver complex feature requirements, achieving 90% on-time sprint delivery</li>
+                                <li>Monitored and optimized app performance using Firebase Performance, Datadog, and Perfetto, reducing app startup time by 25% and crash-free sessions to 98%</li>
+                                <li>Implemented CI/CD pipelines and automated testing to streamline deployment cycles, reducing manual release efforts by 40%</li>
+                                <li>Tracked and reported performance KPIs to stakeholders, ensuring features met business expectations and compliance standards</li>
                             </ul>
                         </div>
                     </div>
 
                     <div class="project">
-                        <div class="project-title">CXAI SuperApp</div>
+                        <div class="project-title">CXAI</div>
                         <div class="project-description">
                             <ul>
-                                <li>Developed SuperApp with multi-client support, rolling out 10+ high-impact features</li>
-                                <li>Improved customer engagement by 25% through enhanced user experience</li>
-                                <li>Led migration to modern Android stack improving development efficiency by
+                                <li>Contributed to the development of a SuperApp with multi-client support, rolling out 10+ high-impact features that improved customer engagement by 25%</li>
+                                <li>Handled ongoing production issues and enhanced legacy modules with new features, reducing bug backlog by 30% and improving feature delivery speed</li>
+                                <li>Led migration of legacy codebase to modern Android stack (Kotlin, Jetpack Compose, Kotlin DSL), improving development efficiency by 35% and reducing crash rates by 20%</li>
+                                <li>Integrated CI/CD pipelines for automated builds, testing, and production rollouts, cutting release deployment time by 40%</li>
+                                <li>Implemented unit tests for complex flows, increasing test coverage to 75% and reducing regression issues by 30%</li>
+                                <li>Facilitated cross-team communication and issue resolution, ensuring 95% on-time delivery of sprints</li>
+                                <li>Enforced code quality standards with SonarQube and code review automation, reducing critical code smells and vulnerabilities by 50%</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="project">
+                        <div class="project-title">Crypto Wallet - Amplica Labs</div>
+                        <div class="project-description">
+                            <ul>
+                                <li>Developed a blockchain-based Crypto Wallet for linking identities from the Mewe social app, enabling users to use their handle for centralized authentication across Mewe's mini-apps. Features included token purchases, transfers, staking, ability to purchase gifts and interoperability with parachains connected to Polkadot</li>
+                                <li>Led a team of 3 Android developers, driving sprint planning, code reviews, and feature delivery, reducing release cycles by 20%</li>
+                                <li>Implemented the latest Jetpack libraries including Jetpack Compose, Room, Flow, Coroutine, WorkManager, Dagger Hilt, Nav Graph, and Paging3</li>
+                                <li>Implemented Keystore chain to encrypt keypairs generated from mnemonic/seed phrases for signed transactions on-chain</li>
+                                <li>Integrated with substrate-based Polkadot parachains via Docker (RPC, Extrinsic, Schemas, Pallets), enabling interoperability across 5+ chains and ensuring 99.9% uptime for real-time socket connections</li>
+                                <li>Established real-time socket connections with various Polkadot-connected chains</li>
+                                <li>Leveraged Sr25519 Rust libraries to generate key pairs from mnemonic phrases, ensuring cryptographic security aligned with blockchain best practices</li>
+                                <li>Designed scalable app architecture using MVVM + Clean Architecture with SOLID principles, improving code maintainability and reducing bug density by 25%</li>
+                                <li>Implemented unit and integration tests to automate processes</li>
+                                <li>Created CI/CD pipelines with GitHub Actions for automated testing and deployments, cutting release delivery time by 50%</li>
+                                <li>Strengthened app security by implementing Proguard rules, reducing reverse-engineering risks by 60%</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="project">
+                        <div class="project-title">Ithra Digital</div>
+                        <div class="project-description">
+                            <ul>
+                                <li>The Ithra mobile app enriches your journey by exploring the latest programs offered at Ithra. Easily create and manage a list of your favorite programs, ensuring a smooth and pleasant visit by organizing dates and times</li>
+                                <li>Assisted other Android developers in resolving issues, enhancing/improving the code base, and adding new features</li>
+                                <li>Migrated 70 percent of the legacy code base to Kotlin and wrote unit test cases for major features</li>
+                                <li>Improved UI by adopting best practices such as reusing XML components, migrating nested layouts to ConstraintLayouts, and implementing stub, styles, themes</li>
+                                <li>Implemented app localization for different languages based on user countries</li>
+                                <li>Transitioned the app design pattern from MVC, MVP to MVVM with modularization</li>
+                                <li>Enhanced gradle scripts to prevent redundant library implementations and consolidated all libraries into a single file with module-based separation</li>
+                                <li>Implemented Proguard rules to enhance code security against reverse engineering</li>
+                                <li>Designed and architected the app flow with Server-Driven UI, utilizing the Epoxy library for runtime component rendering</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="project">
+                        <div class="project-title">Baloch Transport</div>
+                        <div class="project-description">
+                            <ul>
+                                <li>Contributed to the full Software Development Life Cycle (SDLC) including analysis, development, testing, deployment, and enhancements, ensuring smooth delivery of app releases</li>
+                                <li>Designed and developed complex, responsive UI screens with Navigation Drawer, Material Design Components, and reusable fragments, improving user navigation experience by 25%</li>
+                                <li>Implemented network layer using Retrofit and OkHttp, optimizing API response handling and reducing load times by 20%</li>
+                                <li>Enhanced search functionality with sorting (Relevance, Price, Rating), auto-fill, and search history, resulting in a 30% increase in search efficiency</li>
+                                <li>Built local SQLite database for offline storage of search history and credits, reducing server load by 15%</li>
+                                <li>Integrated multiple payment gateways (JazzCash, EasyPaisa, PayFast, Credit/Debit cards), enabling 50K+ secure transactions per month</li>
+                                <li>Led testing and debugging across multiple Android devices, leveraging Datadog and Logcat to reduce crash rate by 20%</li>
+                                <li>Scaled app to 100K+ downloads on Google Play Store with 50K+ daily active users (DAU), becoming one of the top-used transport apps in the region</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="project">
+                        <div class="project-title">AnnonZilla</div>
+                        <div class="project-description">
+                            <ul>
+                                <li>Implemented full life cycle development of new web applications and modification of existing applications to add new components and features emphasizing maintainability, reliability, scalability and performance</li>
+                                <li>Worked on innovative background reflecting the user account status that changes according to user's account</li>
+                                <li>Learnt new OOP language called Kotlin on the fly and successfully migrated parts of the project to Kotlin</li>
+                                <li>Designed screens related to Categories and Detail description for Tablet for both 7 inch and 10-inch devices by customizing views as per mockup. Created Master-Detail Interface for tablet implementation</li>
+                                <li>Worked on UI and base Android framework issues during OS upgradation</li>
+                                <li>Used GIT for version control and Gradle as a build tool</li>
+                                <li>Implemented MVP design pattern in designing and development of this project</li>
+                                <li>Used web views, list views and populated lists to display the lists from database using simple adapters</li>
+                                <li>Used Android content providers for implementing features like sending E-mails, SMS, etc., from the app and designed suitable GUI for these applications</li>
+                                <li>Used Services, Async tasks and Alert Notification API to implement event reminder feature into the mobile app. Developed Rich UI using RecyclerView, Scroll View, Navigation Drawer, and View Pager</li>
+                                <li>Embedded Google Maps API, GPS Location Data into app with zooming controls</li>
+                                <li>Involved in working with Location Manager and Restful Web service with JSON</li>
+                                <li>In depth on background processing using AsyncTasks and Services, AIDL and retrieval of structured data, fragments and broadcast receivers</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="project">
+                        <div class="project-title">MindSupply — Klus — DatisFlex — Boxii</div>
+                        <div class="project-description">
+                            <ul>
+                                <li>Contributed across 4 Android projects ranging from e-commerce to recruitment and contractor platforms, serving diverse markets in the Middle East and Europe</li>
+                                <li>Participated in complete SDLC including design, development, testing, deployment, and post-release enhancements, ensuring smooth delivery for all projects</li>
+                                <li>Built responsive and complex UI screens with Material Design Components, Jetpack Navigation, and reusable fragments, improving user engagement by 20%</li>
+                                <li>Implemented offline-first support using Room/SQLite for local data caching (search history, credits, subscriptions), reducing server load by 15%</li>
+                                <li>Integrated Firebase features such as Remote Config, Dynamic Links, Firestore, and Push Notifications to boost user engagement and retention</li>
+                                <li>Developed video/article modules for financial education (MindSupply), contractor management tools (Klus), IT recruitment workflows (DatisFlex), and subscription-based e-commerce features with wallet integration (Boxii)</li>
+                                <li>Worked with REST APIs, GraphQL (Apollo Client), Retrofit with interceptors, Proguard rules, and secure payment integrations</li>
+                                <li>Adopted modern Android stack: Kotlin, Jetpack Libraries (Flow, LiveData, WorkManager, Room, DataStore), MVVM, and CI/CD integration via Git + Jenkins, reducing release cycles by 30%</li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+            </main>
+        </div>
+    </div>
+</body>
